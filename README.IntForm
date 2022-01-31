@@ -1,0 +1,17 @@
+# all form of int
+
+# decimal form
+dcvar=19
+print(dcvar)
+
+# binary form -- prfix started with 0b/ 0B
+bnvar=0b1011101
+print(bnvar)
+
+#octagonal form -- prfix started with 0o/ 0O
+ocvar=0o7245
+print(ocvar)
+
+#hexagonal form -- prfix started with 0x/ 0X
+hxvar=0xa4fc3
+print(hxvar)
