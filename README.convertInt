@@ -1,0 +1,10 @@
+#covert one form of int to another
+print(bin(19))
+print(oct(72))
+print(hex(592))
+print(oct(0b111))
+print(hex(0b11010))
+print(bin(0o712))
+print(hex(0o321))
+print(bin(0xface))
+print(oct(0xface))
