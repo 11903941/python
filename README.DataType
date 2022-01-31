@@ -1,0 +1,14 @@
+# to find the data type of variable
+num=10
+ch='a'
+fraction=3.14
+str1="sakshi"
+str2="'sam'"
+cmp=3+2j
+
+type(num)
+type(ch)
+type(fraction)
+type(str1)
+type(str2)
+type(cmp)
